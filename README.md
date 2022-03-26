@@ -1,16 +1,18 @@
-# Project_Archaic
+# Projeto final de curso: Project_Archaic
 
-2nd Group Project. Codename: Archaic.
+## Descrição:
 
-Implementation requires:
+Projeto desenvolvido no final do curso de Programador de Informática.
+O projeto consiste numa plataforma online de jogos criados com a linguagem Python e utilizando o estilo retro 8bit.
 
-- Web Platform to publish games
-- Account creation and management
-- Highscores storage and presentation
 
-Games already in development:
+### Software:
+ - Pycharm;
+ - Visual Studio Code.
 
-- The Great Adventure (2D Platform game)
-- Pong game
-- Bullet hell
-
+### Tech:
+- Python;
+- HTML;
+- CSS;
+- Javascript;
+- Git.
